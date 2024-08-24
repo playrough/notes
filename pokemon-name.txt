@@ -1,13 +1,12 @@
-
 $星野龙一=Hoshino Ryuichi
 $星野龙真=Hoshino Ryuuma
 $星野龙崎=Hoshino Ryuzaki
 
-$电神柱=Điện thần trụ
-$龙神柱=Long thần trụ
-$三神柱=Tam thần trụ
-$钢的神柱=Thép thần trụ
-$冰神柱=Băng thần trụ
+$电神柱=Điện Thần Trụ
+$龙神柱=Long Thần Trụ
+$三神柱=Tam Thần Trụ
+$钢的神柱=Thép Thần Trụ
+$冰神柱=Băng Thần Trụ
 
 $银河队=Team Galactic
 $熔岩队=Team Magma
@@ -16,8 +15,7 @@ $火箭队=Team Rocket
 
 $德文=Devon
 
-@Độ=Lance
-$兹伏奇大吾=Steven Stone
+$君莎=Jenny
 $坂木=Giovani
 $菊野=Bertha
 $源治=Drake
@@ -32,7 +30,10 @@ $科拿=Lorelei
 $大吾=Steven
 $柳伯=Pryce
 $菊子=Agatha
+@Độ=Lance
+$兹伏奇大吾=Steven Stone
 
+$借助着=mượn nhờ
 $迅速击败=cấp tốc đánh bại
 $结结实实=rắn rắn chắc chắc
 $精神力量=tinh thần lực lượng
@@ -68,8 +69,7 @@ $川谷森=Kawatani Mori
 $比内娜=Binena
 $夏彦=Ethan
 $联盟币=LP
-_______________________________
-
+_________________________________
 _____________OTHER_____________
 $流星之里=Meteor Village
 $橘子群岛=Orange Archipelago
@@ -102,7 +102,6 @@ $哞哞牛奶=Moomoo Milk
 
 $回击之盾=Counter Shield
 $精灵世界=Thế Giới Pokémon
-$精灵=Pokémon
 
 _____________ABILITIES_____________
 $恶臭=Stench
@@ -3531,7 +3530,8 @@ $顽皮雷弹=Electrode<img index="#0101" class="pokemon-image" src="https://i.p
 $椰蛋树=Exeggutor<img index="#0103" class="pokemon-image" src="https://i.postimg.cc/W397TLX7/Exeggutor.png"><img index="#0103" class="pokemon-image" src="https://i.postimg.cc/Ls3TQZPw/Exeggutor-Alolan-Form.png">
 $嘎啦嘎啦=Marowak<img index="#0105" class="pokemon-image" src="https://i.postimg.cc/sgNGJYww/Marowak.png"><img index="#0105" class="pokemon-image" src="https://i.postimg.cc/QMK9YFzs/Marowak-Alolan-Form.png">
 $双弹瓦斯=Weezing<img index="#0110" class="pokemon-image" src="https://i.postimg.cc/t4KWjdW7/Weezing.png"><img index="#0110" class="pokemon-image" src="https://i.postimg.cc/RF9t3MPB/Weezing-Galarian-Form.png">
-$肯泰罗=Tauros<img index="#0128" class="pokemon-image" src="https://i.postimg.cc/Wbs9RVjx/Tauros.png"><img index="#0128" class="pokemon-image" src="https://i.postimg.cc/RVGg4YZh/Tauros-Paldean-Form-Aqua-Breed.png"><img index="#0128" class="pokemon-image" src="https://i.postimg.cc/0yBZJJmq/Tauros-Paldean-Form-Blaze-Breed.png"><img index="#0128" class="pokemon-image" src="https://i.postimg.cc/g0LsykqL/Tauros-Paldean-Form-Combat-Breed.png">
+$魔墙人偶=Mr. Mime<img index="#0122" class="pokemon-image" src="https://i.postimg.cc/g2X2mfHH/Mr-Mime.png"><img index="#0122" class="pokemon-image" src="https://i.postimg.cc/9fyXqZS4/Mr-Mime-Galarian-Form.png">
+$肯泰罗=Tauros<img index="#0128" class="pokemon-image" src="https://i.postimg.cc/Wbs9RVjx/Tauros.png"><img index="#0128" class="pokemon-image" src="https://i.postimg.cc/g0LsykqL/Tauros-Paldean-Form-Combat-Breed.png"><img index="#0128" class="pokemon-image" src="https://i.postimg.cc/0yBZJJmq/Tauros-Paldean-Form-Blaze-Breed.png"><img index="#0128" class="pokemon-image" src="https://i.postimg.cc/RVGg4YZh/Tauros-Paldean-Form-Aqua-Breed.png">
 $急冻鸟=Articuno<img index="#0144" class="pokemon-image" src="https://i.postimg.cc/wvsBTDkb/Articuno.png"><img index="#0144" class="pokemon-image" src="https://i.postimg.cc/R0YFBgwH/Articuno-Galarian-Form.png">
 $闪电鸟=Zapdos<img index="#0145" class="pokemon-image" src="https://i.postimg.cc/wx4tzcdH/Zapdos.png"><img index="#0145" class="pokemon-image" src="https://i.postimg.cc/yYwkg1db/Zapdos-Galarian-Form.png">
 $火焰鸟=Moltres<img index="#0146" class="pokemon-image" src="https://i.postimg.cc/XqsYYWPQ/Moltres.png"><img index="#0146" class="pokemon-image" src="https://i.postimg.cc/Y2R93NSY/Moltres-Galarian-Form.png">
@@ -3543,43 +3543,43 @@ $狃拉=Sneasel<img index="#0215" class="pokemon-image" src="https://i.postimg.c
 $太阳珊瑚=Corsola<img index="#0222" class="pokemon-image" src="https://i.postimg.cc/prCM2d36/Corsola.png"><img index="#0222" class="pokemon-image" src="https://i.postimg.cc/FFV4bP1V/Corsola-Galarian-Form.png">
 $蛇纹熊=Zigzagoon<img index="#0263" class="pokemon-image" src="https://i.postimg.cc/P5YN1gvr/Zigzagoon.png"><img index="#0263" class="pokemon-image" src="https://i.postimg.cc/SK4RdgcL/Zigzagoon-Galarian-Form.png">
 $直冲熊=Linoone<img index="#0264" class="pokemon-image" src="https://i.postimg.cc/WzwJmxHk/Linoone.png"><img index="#0264" class="pokemon-image" src="https://i.postimg.cc/WpGrPJ11/Linoone-Galarian-Form.png">
-$飘浮泡泡=Castform<img index="#0351" class="pokemon-image" src="https://i.postimg.cc/ZKjJmfS5/Castform-Normal.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/6pmw2yTs/Castform-Rainy-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/25LY4rB1/Castform-Snowy-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/gJ9WsQvN/Castform-Sunny-Form.png">
+$飘浮泡泡=Castform<img index="#0351" class="pokemon-image" src="https://i.postimg.cc/ZKjJmfS5/Castform-Normal.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/gJ9WsQvN/Castform-Sunny-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/6pmw2yTs/Castform-Rainy-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/25LY4rB1/Castform-Snowy-Form.png">
 $盖欧卡=Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/dLxKDgM5/image382.png"><img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
 $固拉多=Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/WdqcZSTT/image383.png"><img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
-$代欧奇希斯=Deoxys<img index="#0386" class="pokemon-image" src="https://i.postimg.cc/HxmNVg0D/Deoxys-Attack-Forme.png"><img index="#0386" class="pokemon-image" src="https://i.postimg.cc/L560330x/Deoxys-Defense-Forme.png"><img index="#0386" class="pokemon-image" src="https://i.postimg.cc/gJKThT4w/Deoxys-Normal-Forme.png"><img index="#0386" class="pokemon-image" src="https://i.postimg.cc/SRT1TYBk/Deoxys-Speed-Forme.png">
+$代欧奇希斯=Deoxys<img index="#0386" class="pokemon-image" src="https://i.postimg.cc/gJKThT4w/Deoxys-Normal-Forme.png"><img index="#0386" class="pokemon-image" src="https://i.postimg.cc/HxmNVg0D/Deoxys-Attack-Forme.png"><img index="#0386" class="pokemon-image" src="https://i.postimg.cc/L560330x/Deoxys-Defense-Forme.png"><img index="#0386" class="pokemon-image" src="https://i.postimg.cc/SRT1TYBk/Deoxys-Speed-Forme.png">
 $结草儿=Burmy<img index="#0412" class="pokemon-image" src="https://i.postimg.cc/s2bV8vRP/Burmy-Plant-Cloak.png"><img index="#0412" class="pokemon-image" src="https://i.postimg.cc/vTsGYkTc/Burmy-Sandy-Cloak.png"><img index="#0412" class="pokemon-image" src="https://i.postimg.cc/KjDxRf3Q/Burmy-Trash-Cloak.png">
 $结草贵妇=Wormadam<img index="#0413" class="pokemon-image" src="https://i.postimg.cc/66MZ3xnk/Wormadam-Plant-Cloak.png"><img index="#0413" class="pokemon-image" src="https://i.postimg.cc/SNjMY1GJ/Wormadam-Sandy-Cloak.png"><img index="#0413" class="pokemon-image" src="https://i.postimg.cc/NfVr68Nb/Wormadam-Trash-Cloak.png">
 $樱花儿=Cherrim<img index="#0421" class="pokemon-image" src="https://i.postimg.cc/B6xGVpps/Cherrim-Overcast-Form.png"><img index="#0421" class="pokemon-image" src="https://i.postimg.cc/j2tr0f3f/Cherrim-Sunshine-Form.png">
-$无壳海兔=Shellos<img index="#0422" class="pokemon-image" src="https://i.postimg.cc/ry46yMBm/Shellos-East-Sea.png"><img index="#0422" class="pokemon-image" src="https://i.postimg.cc/c4GprPWc/Shellos-West-Sea.png">
-$海兔兽=Gastrodon<img index="#0423" class="pokemon-image" src="https://i.postimg.cc/76cTKxKj/Gastrodon-East-Sea.png"><img index="#0423" class="pokemon-image" src="https://i.postimg.cc/jjMfJ6Px/Gastrodon-West-Sea.png">
-$洛托姆=Rotom<img index="#0479" class="pokemon-image" src="https://i.postimg.cc/GhYbfkLX/Rotom-Fan-Rotom.png"><img index="#0479" class="pokemon-image" src="https://i.postimg.cc/Qd3jZHVh/Rotom-Frost-Rotom.png"><img index="#0479" class="pokemon-image" src="https://i.postimg.cc/qvx4J4Cn/Rotom-Heat-Rotom.png"><img index="#0479" class="pokemon-image" src="https://i.postimg.cc/tgRy7whc/Rotom-Mow-Rotom.png"><img index="#0479" class="pokemon-image" src="https://i.postimg.cc/tgrb6kk4/Rotom-Wash-Rotom.png">
+$无壳海兔=Shellos<img index="#0422" class="pokemon-image" src="https://i.postimg.cc/c4GprPWc/Shellos-West-Sea.png"><img index="#0422" class="pokemon-image" src="https://i.postimg.cc/ry46yMBm/Shellos-East-Sea.png">
+$海兔兽=Gastrodon<img index="#0423" class="pokemon-image" src="https://i.postimg.cc/jjMfJ6Px/Gastrodon-West-Sea.png"><img index="#0423" class="pokemon-image" src="https://i.postimg.cc/76cTKxKj/Gastrodon-East-Sea.png">
+$洛托姆=Rotom<img index="#0479" class="pokemon-image" src="https://i.postimg.cc/QxXbyp6L/Rotom.png"><img index="#0479" class="pokemon-image" src="https://i.postimg.cc/qvx4J4Cn/Rotom-Heat-Rotom.png"><img index="#0479" class="pokemon-image" src="https://i.postimg.cc/tgrb6kk4/Rotom-Wash-Rotom.png"><img index="#0479" class="pokemon-image" src="https://i.postimg.cc/Qd3jZHVh/Rotom-Frost-Rotom.png"><img index="#0479" class="pokemon-image" src="https://i.postimg.cc/GhYbfkLX/Rotom-Fan-Rotom.png"><img index="#0479" class="pokemon-image" src="https://i.postimg.cc/tgRy7whc/Rotom-Mow-Rotom.png">
 $帝牙卢卡=Dialga<img index="#0483" class="pokemon-image" src="https://i.postimg.cc/9XJkFsrK/Dialga.png"><img index="#0483" class="pokemon-image" src="https://i.postimg.cc/PrJRLKDx/Dialga-Origin-Forme.png">
 $帕路奇亚=Palkia<img index="#0484" class="pokemon-image" src="https://i.postimg.cc/C1LyL8Vp/Palkia.png"><img index="#0484" class="pokemon-image" src="https://i.postimg.cc/yxkw0zdf/Palkia-Origin-Forme.png">
 $骑拉帝纳=Giratina<img index="#0487" class="pokemon-image" src="https://i.postimg.cc/VNKGgH22/Giratina-Altered-Forme.png"><img index="#0487" class="pokemon-image" src="https://i.postimg.cc/nzMdPGJr/Giratina-Origin-Forme.png">
 $谢米=Shaymin<img index="#0492" class="pokemon-image" src="https://i.postimg.cc/xCWWG4zn/Shaymin-Land-Forme.png"><img index="#0492" class="pokemon-image" src="https://i.postimg.cc/7h0jKn37/Shaymin-Sky-Forme.png">
 $大剑鬼=Samurott<img index="#0503" class="pokemon-image" src="https://i.postimg.cc/B6X0BF7c/Samurott.png"><img index="#0503" class="pokemon-image" src="https://i.postimg.cc/d1pKH0zM/Samurott-Hisuian-Form.png">
 $裙儿小姐=Lilligant<img index="#0549" class="pokemon-image" src="https://i.postimg.cc/wMpmm90z/Lilligant.png"><img index="#0549" class="pokemon-image" src="https://i.postimg.cc/sXSWxMPK/Lilligant-Hisuian-Form.png">
-$野蛮鲈鱼=Basculin<img index="#0550" class="pokemon-image" src="https://i.postimg.cc/FsxHRrjm/Basculin-Blue-Striped-Form.png"><img index="#0550" class="pokemon-image" src="https://i.postimg.cc/BnQQPrgF/Basculin-Red-Striped-Form.png"><img index="#0550" class="pokemon-image" src="https://i.postimg.cc/vZq8r0qN/Basculin-White-Striped-Form.png">
+$野蛮鲈鱼=Basculin<img index="#0550" class="pokemon-image" src="https://i.postimg.cc/BnQQPrgF/Basculin-Red-Striped-Form.png"><img index="#0550" class="pokemon-image" src="https://i.postimg.cc/FsxHRrjm/Basculin-Blue-Striped-Form.png"><img index="#0550" class="pokemon-image" src="https://i.postimg.cc/vZq8r0qN/Basculin-White-Striped-Form.png">
 $火红不倒翁=Darumaka<img index="#0554" class="pokemon-image" src="https://i.postimg.cc/7hxjQkbM/Darumaka.png"><img index="#0554" class="pokemon-image" src="https://i.postimg.cc/zv06scgm/Darumaka-Galarian-Form.png">
-$达摩狒狒=Darmanitan<img index="#0555" class="pokemon-image" src="https://i.postimg.cc/RZy5Cyb4/Darmanitan-Galarian-Form.png"><img index="#0555" class="pokemon-image" src="https://i.postimg.cc/5tzcXgZv/Darmanitan-Standard-Mode.png"><img index="#0555" class="pokemon-image" src="https://i.postimg.cc/j56GX5qS/Darmanitan-Zen-Mode.png"><img index="#0555" class="pokemon-image" src="https://i.postimg.cc/63xknRXP/Darmanitan-Zen-Mode-Galarian-Form.png">
+$达摩狒狒=Darmanitan<img index="#0555" class="pokemon-image" src="https://i.postimg.cc/5tzcXgZv/Darmanitan-Standard-Mode.png"><img index="#0555" class="pokemon-image" src="https://i.postimg.cc/j56GX5qS/Darmanitan-Zen-Mode.png"><img index="#0555" class="pokemon-image" src="https://i.postimg.cc/RZy5Cyb4/Darmanitan-Galarian-Form.png"><img index="#0555" class="pokemon-image" src="https://i.postimg.cc/63xknRXP/Darmanitan-Zen-Mode-Galarian-Form.png">
 $哭哭面具=Yamask<img index="#0562" class="pokemon-image" src="https://i.postimg.cc/tgdZGK9m/Yamask.png"><img index="#0562" class="pokemon-image" src="https://i.postimg.cc/TwRydtw2/Yamask-Galarian-Form.png">
 $索罗亚=Zorua<img index="#0570" class="pokemon-image" src="https://i.postimg.cc/j5gjsKmv/Zorua.png"><img index="#0570" class="pokemon-image" src="https://i.postimg.cc/Gt4mtV1R/Zorua-Hisuian-Form.png">
 $索罗亚克=Zoroark<img index="#0571" class="pokemon-image" src="https://i.postimg.cc/rp9mP59B/Zoroark.png"><img index="#0571" class="pokemon-image" src="https://i.postimg.cc/DZyZkmj8/Zoroark-Hisuian-Form.png">
-$四季鹿=Deerling<img index="#0585" class="pokemon-image" src="https://i.postimg.cc/3Jfz9zhm/Deerling-Autumn-Form.png"><img index="#0585" class="pokemon-image" src="https://i.postimg.cc/wjtZrFxP/Deerling-Spring-Form.png"><img index="#0585" class="pokemon-image" src="https://i.postimg.cc/kgkzP8B5/Deerling-Summer-Form.png"><img index="#0585" class="pokemon-image" src="https://i.postimg.cc/fbmFzL9f/Deerling-Winter-Form.png">
-$萌芽鹿=Sawsbuck<img index="#0586" class="pokemon-image" src="https://i.postimg.cc/nh2f826G/Sawsbuck-Autumn-Form.png"><img index="#0586" class="pokemon-image" src="https://i.postimg.cc/6ptx1g1Q/Sawsbuck-Spring-Form.png"><img index="#0586" class="pokemon-image" src="https://i.postimg.cc/k55378C3/Sawsbuck-Summer-Form.png"><img index="#0586" class="pokemon-image" src="https://i.postimg.cc/fbg4yLW3/Sawsbuck-Winter-Form.png">
+$四季鹿=Deerling<img index="#0585" class="pokemon-image" src="https://i.postimg.cc/wjtZrFxP/Deerling-Spring-Form.png"><img index="#0585" class="pokemon-image" src="https://i.postimg.cc/kgkzP8B5/Deerling-Summer-Form.png"><img index="#0585" class="pokemon-image" src="https://i.postimg.cc/3Jfz9zhm/Deerling-Autumn-Form.png"><img index="#0585" class="pokemon-image" src="https://i.postimg.cc/fbmFzL9f/Deerling-Winter-Form.png">
+$萌芽鹿=Sawsbuck<img index="#0586" class="pokemon-image" src="https://i.postimg.cc/6ptx1g1Q/Sawsbuck-Spring-Form.png"><img index="#0586" class="pokemon-image" src="https://i.postimg.cc/k55378C3/Sawsbuck-Summer-Form.png"><img index="#0586" class="pokemon-image" src="https://i.postimg.cc/nh2f826G/Sawsbuck-Autumn-Form.png"><img index="#0586" class="pokemon-image" src="https://i.postimg.cc/fbg4yLW3/Sawsbuck-Winter-Form.png">
 $泥巴鱼=Stunfisk<img index="#0618" class="pokemon-image" src="https://i.postimg.cc/BvRhR1QC/Stunfisk.png"><img index="#0618" class="pokemon-image" src="https://i.postimg.cc/PxZ6HrCn/Stunfisk-Galarian-Form.png">
 $勇士雄鹰=Braviary<img index="#0628" class="pokemon-image" src="https://i.postimg.cc/KY1GJtCv/Braviary.png"><img index="#0628" class="pokemon-image" src="https://i.postimg.cc/4dtJTsJD/Braviary-Hisuian-Form.png">
 $龙卷云=Tornadus<img index="#0641" class="pokemon-image" src="https://i.postimg.cc/qBxLxFnw/Tornadus-Incarnate-Forme.png"><img index="#0641" class="pokemon-image" src="https://i.postimg.cc/DyfcjcPT/Tornadus-Therian-Forme.png">
 $雷电云=Thundurus<img index="#0642" class="pokemon-image" src="https://i.postimg.cc/PJTMkbG1/Thundurus-Incarnate-Forme.png"><img index="#0642" class="pokemon-image" src="https://i.postimg.cc/XqLkNZ3m/Thundurus-Therian-Forme.png">
 $土地云=Landorus<img index="#0645" class="pokemon-image" src="https://i.postimg.cc/3wkmMSds/Landorus-Incarnate-Forme.png"><img index="#0645" class="pokemon-image" src="https://i.postimg.cc/MGgRz7Bv/Landorus-Therian-Forme.png">
-$酋雷姆=Kyurem<img index="#0646" class="pokemon-image" src="https://i.postimg.cc/rF9S5RBP/Kyurem-Black-Kyurem.png"><img index="#0646" class="pokemon-image" src="https://i.postimg.cc/pLXKCXxX/Kyurem-Kyurem.png"><img index="#0646" class="pokemon-image" src="https://i.postimg.cc/t4SWMQCd/Kyurem-White-Kyurem.png">
+$酋雷姆=Kyurem<img index="#0646" class="pokemon-image" src="https://i.postimg.cc/pLXKCXxX/Kyurem-Kyurem.png"><img index="#0646" class="pokemon-image" src="https://i.postimg.cc/t4SWMQCd/Kyurem-White-Kyurem.png"><img index="#0646" class="pokemon-image" src="https://i.postimg.cc/rF9S5RBP/Kyurem-Black-Kyurem.png">
 $凯路迪欧=Keldeo<img index="#0647" class="pokemon-image" src="https://i.postimg.cc/fWm7TrBZ/Keldeo-Ordinary-Form.png"><img index="#0647" class="pokemon-image" src="https://i.postimg.cc/DyhrWPMG/Keldeo-Resolute-Form.png">
 $美洛耶塔=Meloetta<img index="#0648" class="pokemon-image" src="https://i.postimg.cc/prCp5zmQ/Meloetta-Aria-Forme.png"><img index="#0648" class="pokemon-image" src="https://i.postimg.cc/C5SRKmxL/Meloetta-Pirouette-Forme.png">
-$盖诺赛克特=Genesect<img index="#0649" class="pokemon-image" src="https://i.postimg.cc/fbzXLq3q/Genesect-Genesect-Burn-Drive.png"><img index="#0649" class="pokemon-image" src="https://i.postimg.cc/LXh1kq3z/Genesect-Genesect-Chill-Drive.png"><img index="#0649" class="pokemon-image" src="https://i.postimg.cc/LhFgMxKT/Genesect-Genesect-Douse-Drive.png"><img index="#0649" class="pokemon-image" src="https://i.postimg.cc/c1rj90xh/Genesect-Genesect-no-drive.png"><img index="#0649" class="pokemon-image" src="https://i.postimg.cc/ry3H73zk/Genesect-Genesect-Shock-Drive.png">
-$花叶蒂=Floette<img index="#0670" class="pokemon-image" src="https://i.postimg.cc/cLQM68FC/Floette-Blue-Flower.png"><img index="#0670" class="pokemon-image" src="https://i.postimg.cc/wB2XQY8d/Floette-Orange-Flower.png"><img index="#0670" class="pokemon-image" src="https://i.postimg.cc/4d3z82sH/Floette-Red-Flower.png"><img index="#0670" class="pokemon-image" src="https://i.postimg.cc/rmY57Gwn/Floette-White-Flower.png"><img index="#0670" class="pokemon-image" src="https://i.postimg.cc/j2wyTWWs/Floette-Yellow-Flower.png">
-$花洁夫人=Florges<img index="#0671" class="pokemon-image" src="https://i.postimg.cc/5yhL2xv8/Florges-Blue-Flower.png"><img index="#0671" class="pokemon-image" src="https://i.postimg.cc/qMK2Z3Vw/Florges-Orange-Flower.png"><img index="#0671" class="pokemon-image" src="https://i.postimg.cc/rwL56wqk/Florges-Red-Flower.png"><img index="#0671" class="pokemon-image" src="https://i.postimg.cc/v8kWzvjD/Florges-White-Flower.png"><img index="#0671" class="pokemon-image" src="https://i.postimg.cc/BncHJfv1/Florges-Yellow-Flower.png">
-$超能妙喵=Meowstic<img index="#0678" class="pokemon-image" src="https://i.postimg.cc/kMvVH3TV/Meowstic-Female.png"><img index="#0678" class="pokemon-image" src="https://i.postimg.cc/PrfLs37S/Meowstic-Male.png">
-$坚盾剑怪=Aegislash<img index="#0681" class="pokemon-image" src="https://i.postimg.cc/kgnDF6nB/Aegislash-Blade-Forme.png"><img index="#0681" class="pokemon-image" src="https://i.postimg.cc/xTGczyVw/Aegislash-Shield-Forme.png">
+$盖诺赛克特=Genesect<img index="#0649" class="pokemon-image" src="https://i.postimg.cc/c1rj90xh/Genesect-Genesect-no-drive.png"><img index="#0649" class="pokemon-image" src="https://i.postimg.cc/ry3H73zk/Genesect-Genesect-Shock-Drive.png"><img index="#0649" class="pokemon-image" src="https://i.postimg.cc/fbzXLq3q/Genesect-Genesect-Burn-Drive.png"><img index="#0649" class="pokemon-image" src="https://i.postimg.cc/LXh1kq3z/Genesect-Genesect-Chill-Drive.png"><img index="#0649" class="pokemon-image" src="https://i.postimg.cc/LhFgMxKT/Genesect-Genesect-Douse-Drive.png">
+$花叶蒂=Floette<img index="#0670" class="pokemon-image" src="https://i.postimg.cc/4d3z82sH/Floette-Red-Flower.png"><img index="#0670" class="pokemon-image" src="https://i.postimg.cc/j2wyTWWs/Floette-Yellow-Flower.png"><img index="#0670" class="pokemon-image" src="https://i.postimg.cc/wB2XQY8d/Floette-Orange-Flower.png"><img index="#0670" class="pokemon-image" src="https://i.postimg.cc/cLQM68FC/Floette-Blue-Flower.png"><img index="#0670" class="pokemon-image" src="https://i.postimg.cc/rmY57Gwn/Floette-White-Flower.png">
+$花洁夫人=Florges<img index="#0671" class="pokemon-image" src="https://i.postimg.cc/rwL56wqk/Florges-Red-Flower.png"><img index="#0671" class="pokemon-image" src="https://i.postimg.cc/BncHJfv1/Florges-Yellow-Flower.png"><img index="#0671" class="pokemon-image" src="https://i.postimg.cc/qMK2Z3Vw/Florges-Orange-Flower.png"><img index="#0671" class="pokemon-image" src="https://i.postimg.cc/5yhL2xv8/Florges-Blue-Flower.png"><img index="#0671" class="pokemon-image" src="https://i.postimg.cc/v8kWzvjD/Florges-White-Flower.png">
+$超能妙喵=Meowstic<img index="#0678" class="pokemon-image" src="https://i.postimg.cc/PrfLs37S/Meowstic-Male.png"><img index="#0678" class="pokemon-image" src="https://i.postimg.cc/kMvVH3TV/Meowstic-Female.png">
+$坚盾剑怪=Aegislash<img index="#0681" class="pokemon-image" src="https://i.postimg.cc/xTGczyVw/Aegislash-Shield-Forme.png"><img index="#0681" class="pokemon-image" src="https://i.postimg.cc/kgnDF6nB/Aegislash-Blade-Forme.png">
 $黏美儿=Sliggoo<img index="#0705" class="pokemon-image" src="https://i.postimg.cc/CLCWDJLp/Sliggoo.png"><img index="#0705" class="pokemon-image" src="https://i.postimg.cc/L8HGVfnY/Sliggoo-Hisuian-Form.png">
 $黏美龙=Goodra<img index="#0706" class="pokemon-image" src="https://i.postimg.cc/hjJrr4L7/Goodra.png"><img index="#0706" class="pokemon-image" src="https://i.postimg.cc/2yh7sHXk/Goodra-Hisuian-Form.png">
 $冰岩怪=Avalugg<img index="#0713" class="pokemon-image" src="https://i.postimg.cc/1Xh3g4CR/Avalugg.png"><img index="#0713" class="pokemon-image" src="https://i.postimg.cc/6qr5Cwgr/Avalugg-Hisuian-Form.png">
@@ -3587,38 +3587,35 @@ $哲尔尼亚斯=Xerneas<img index="#0716" class="pokemon-image" src="https://i.
 $基格尔德=Zygarde<img index="#0718" class="pokemon-image" src="https://i.postimg.cc/NFZfHDgH/Zygarde-10-Forme.png"><img index="#0718" class="pokemon-image" src="https://i.postimg.cc/1Rdz2mp3/Zygarde-50-Forme.png"><img index="#0718" class="pokemon-image" src="https://i.postimg.cc/15NzZkHc/Zygarde-Complete-Forme.png">
 $胡帕=Hoopa<img index="#0720" class="pokemon-image" src="https://i.postimg.cc/yNxX16rr/Hoopa-Hoopa-Confined.png"><img index="#0720" class="pokemon-image" src="https://i.postimg.cc/GtwkxF3Z/Hoopa-Hoopa-Unbound.png">
 $狙射树枭=Decidueye<img index="#0724" class="pokemon-image" src="https://i.postimg.cc/QNb2KHn6/Decidueye.png"><img index="#0724" class="pokemon-image" src="https://i.postimg.cc/8PzqRN2T/Decidueye-Hisuian-Form.png">
-$花舞鸟=Oricorio<img index="#0741" class="pokemon-image" src="https://i.postimg.cc/wMrYrjZ8/Oricorio-Baile-Style.png"><img index="#0741" class="pokemon-image" src="https://i.postimg.cc/28qDZnLz/Oricorio-Pa-u-Style.png"><img index="#0741" class="pokemon-image" src="https://i.postimg.cc/SNwp7jcc/Oricorio-Pom-Pom-Style.png"><img index="#0741" class="pokemon-image" src="https://i.postimg.cc/2ShNHmxM/Oricorio-Sensu-Style.png">
-$鬃岩狼人=Lycanroc<img index="#0745" class="pokemon-image" src="https://i.postimg.cc/4NXc4NYb/Lycanroc-Dusk-Form.png"><img index="#0745" class="pokemon-image" src="https://i.postimg.cc/zXpgyZWm/Lycanroc-Midday-Form.png"><img index="#0745" class="pokemon-image" src="https://i.postimg.cc/vZB69qL4/Lycanroc-Midnight-Form.png">
-$弱丁鱼=Wishiwashi<img index="#0746" class="pokemon-image" src="https://i.postimg.cc/SKc8NXfd/Wishiwashi-School-Form.png"><img index="#0746" class="pokemon-image" src="https://i.postimg.cc/503CLZGF/Wishiwashi-Solo-Form.png">
+$花舞鸟=Oricorio<img index="#0741" class="pokemon-image" src="https://i.postimg.cc/wMrYrjZ8/Oricorio-Baile-Style.png"><img index="#0741" class="pokemon-image" src="https://i.postimg.cc/SNwp7jcc/Oricorio-Pom-Pom-Style.png"><img index="#0741" class="pokemon-image" src="https://i.postimg.cc/28qDZnLz/Oricorio-Pa-u-Style.png"><img index="#0741" class="pokemon-image" src="https://i.postimg.cc/2ShNHmxM/Oricorio-Sensu-Style.png">
+$鬃岩狼人=Lycanroc<img index="#0745" class="pokemon-image" src="https://i.postimg.cc/zXpgyZWm/Lycanroc-Midday-Form.png"><img index="#0745" class="pokemon-image" src="https://i.postimg.cc/vZB69qL4/Lycanroc-Midnight-Form.png"><img index="#0745" class="pokemon-image" src="https://i.postimg.cc/4NXc4NYb/Lycanroc-Dusk-Form.png">
+$弱丁鱼=Wishiwashi<img index="#0746" class="pokemon-image" src="https://i.postimg.cc/503CLZGF/Wishiwashi-Solo-Form.png"><img index="#0746" class="pokemon-image" src="https://i.postimg.cc/SKc8NXfd/Wishiwashi-School-Form.png">
 $小陨星=Minior<img index="#0774" class="pokemon-image" src="https://i.postimg.cc/7hHL4hK5/Minior-Meteor-Form.png"><img index="#0774" class="pokemon-image" src="https://i.postimg.cc/Hx4LFX9G/Minior-Red-Core.png">
-$谜拟丘=Mimikyu<img index="#0778" class="pokemon-image" src="https://i.postimg.cc/bvnrHKGw/Mimikyu-Busted-Form.png"><img index="#0778" class="pokemon-image" src="https://i.postimg.cc/JnWnTPJc/Mimikyu-Disguised-Form.png">
-$奈克洛兹玛=Necrozma<img index="#0800" class="pokemon-image" src="https://i.postimg.cc/RhZv880f/Necrozma.png"><img index="#0800" class="pokemon-image" src="https://i.postimg.cc/J0YRWqyF/Necrozma-Dawn-Wings.png"><img index="#0800" class="pokemon-image" src="https://i.postimg.cc/Y2drgpXx/Necrozma-Dusk-Mane.png">
-$古月鸟=Cramorant<img index="#0845" class="pokemon-image" src="https://i.postimg.cc/Kvcy0nMS/Cramorant.png"><img index="#0845" class="pokemon-image" src="https://i.postimg.cc/GhMnVHFB/Cramorant-Gorging-Form.png"><img index="#0845" class="pokemon-image" src="https://i.postimg.cc/SxJbhkdg/Cramorant-Gulping-Form.png">
+$谜拟丘=Mimikyu<img index="#0778" class="pokemon-image" src="https://i.postimg.cc/JnWnTPJc/Mimikyu-Disguised-Form.png"><img index="#0778" class="pokemon-image" src="https://i.postimg.cc/bvnrHKGw/Mimikyu-Busted-Form.png">
+$奈克洛兹玛=Necrozma<img index="#0800" class="pokemon-image" src="https://i.postimg.cc/RhZv880f/Necrozma.png"><img index="#0800" class="pokemon-image" src="https://i.postimg.cc/Y2drgpXx/Necrozma-Dusk-Mane.png"><img index="#0800" class="pokemon-image" src="https://i.postimg.cc/J0YRWqyF/Necrozma-Dawn-Wings.png"><img index="#0800" class="pokemon-image" src="https://i.postimg.cc/05Gnnt0d/Necrozma-Ultra.png">
+$古月鸟=Cramorant<img index="#0845" class="pokemon-image" src="https://i.postimg.cc/Kvcy0nMS/Cramorant.png"><img index="#0845" class="pokemon-image" src="https://i.postimg.cc/SxJbhkdg/Cramorant-Gulping-Form.png"><img index="#0845" class="pokemon-image" src="https://i.postimg.cc/GhMnVHFB/Cramorant-Gorging-Form.png">
 $颤弦蝾螈=Toxtricity<img index="#0849" class="pokemon-image" src="https://i.postimg.cc/hPC1H727/Toxtricity-Amped-Form.png"><img index="#0849" class="pokemon-image" src="https://i.postimg.cc/g2nHdk7t/Toxtricity-Low-Key-Form.png">
 $冰砌鹅=Eiscue<img index="#0875" class="pokemon-image" src="https://i.postimg.cc/PxKSJ8rY/Eiscue-Ice-Face.png"><img index="#0875" class="pokemon-image" src="https://i.postimg.cc/y6Qfz9Gz/Eiscue-Noice-Face.png">
-$爱管侍=Indeedee<img index="#0876" class="pokemon-image" src="https://i.postimg.cc/4dh6cLG6/Indeedee-Female.png"><img index="#0876" class="pokemon-image" src="https://i.postimg.cc/GtFv74H9/Indeedee-Male.png">
+$爱管侍=Indeedee<img index="#0876" class="pokemon-image" src="https://i.postimg.cc/GtFv74H9/Indeedee-Male.png"><img index="#0876" class="pokemon-image" src="https://i.postimg.cc/4dh6cLG6/Indeedee-Female.png">
 $莫鲁贝可=Morpeko<img index="#0877" class="pokemon-image" src="https://i.postimg.cc/BQvvw88y/Morpeko-Full-Belly-Mode.png"><img index="#0877" class="pokemon-image" src="https://i.postimg.cc/X7DvMVdv/Morpeko-Hangry-Mode.png">
-$苍响=Zacian<img index="#0888" class="pokemon-image" src="https://i.postimg.cc/85t7jLJR/Zacian-Crowned-Sword.png"><img index="#0888" class="pokemon-image" src="https://i.postimg.cc/vTTc9Dfp/Zacian-Hero-of-Many-Battles.png">
-$藏玛然特=Zamazenta<img index="#0889" class="pokemon-image" src="https://i.postimg.cc/prSyBxBy/Zamazenta-Crowned-Shield.png"><img index="#0889" class="pokemon-image" src="https://i.postimg.cc/MKcnpMWB/Zamazenta-Hero-of-Many-Battles.png">
-$武道熊师=Urshifu<img index="#0892" class="pokemon-image" src="https://i.postimg.cc/vTY5KQ9z/Urshifu-Rapid-Strike-Style.png"><img index="#0892" class="pokemon-image" src="https://i.postimg.cc/GtXvwZx1/Urshifu-Single-Strike-Style.png">
+$苍响=Zacian<img index="#0888" class="pokemon-image" src="https://i.postimg.cc/vTTc9Dfp/Zacian-Hero-of-Many-Battles.png"><img index="#0888" class="pokemon-image" src="https://i.postimg.cc/85t7jLJR/Zacian-Crowned-Sword.png">
+$藏玛然特=Zamazenta<img index="#0889" class="pokemon-image" src="https://i.postimg.cc/MKcnpMWB/Zamazenta-Hero-of-Many-Battles.png"><img index="#0889" class="pokemon-image" src="https://i.postimg.cc/prSyBxBy/Zamazenta-Crowned-Shield.png">
+$武道熊师=Urshifu<img index="#0892" class="pokemon-image" src="https://i.postimg.cc/GtXvwZx1/Urshifu-Single-Strike-Style.png"><img index="#0892" class="pokemon-image" src="https://i.postimg.cc/vTY5KQ9z/Urshifu-Rapid-Strike-Style.png">
 $蕾冠王=Calyrex<img index="#0898" class="pokemon-image" src="https://i.postimg.cc/bYxzCyVb/Calyrex.png"><img index="#0898" class="pokemon-image" src="https://i.postimg.cc/NfQQZ3Zn/Calyrex-Ice-Rider.png"><img index="#0898" class="pokemon-image" src="https://i.postimg.cc/SxskxWS7/Calyrex-Shadow-Rider.png">
 $月月熊=Ursaluna<img index="#0901" class="pokemon-image" src="https://i.postimg.cc/B6GTx5nR/Ursaluna.png"><img index="#0901" class="pokemon-image" src="https://i.postimg.cc/26F4Tqqy/Ursaluna-Bloodmoon.png">
-$幽尾玄鱼=Basculegion<img index="#0902" class="pokemon-image" src="https://i.postimg.cc/h4TGkbvX/Basculegion-Female.png"><img index="#0902" class="pokemon-image" src="https://i.postimg.cc/ZKmq4BvV/Basculegion-Male.png">
+$幽尾玄鱼=Basculegion<img index="#0902" class="pokemon-image" src="https://i.postimg.cc/ZKmq4BvV/Basculegion-Male.png"><img index="#0902" class="pokemon-image" src="https://i.postimg.cc/h4TGkbvX/Basculegion-Female.png">
 $眷恋云=Enamorus<img index="#0905" class="pokemon-image" src="https://i.postimg.cc/FHcGc6H9/Enamorus-Incarnate-Forme.png"><img index="#0905" class="pokemon-image" src="https://i.postimg.cc/fbNCvvVY/Enamorus-Therian-Forme.png">
-$飘香豚=Oinkologne<img index="#0916" class="pokemon-image" src="https://i.postimg.cc/4dBgz513/Oinkologne-Female.png"><img index="#0916" class="pokemon-image" src="https://i.postimg.cc/3rfhNtRS/Oinkologne-Male.png">
+$飘香豚=Oinkologne<img index="#0916" class="pokemon-image" src="https://i.postimg.cc/3rfhNtRS/Oinkologne-Male.png"><img index="#0916" class="pokemon-image" src="https://i.postimg.cc/4dBgz513/Oinkologne-Female.png">
 $一家鼠=Maushold<img index="#0925" class="pokemon-image" src="https://i.postimg.cc/FRtfM9tS/Maushold-Family-of-Four.png"><img index="#0925" class="pokemon-image" src="https://i.postimg.cc/d187vzvx/Maushold-Family-of-Three.png">
-$怒鹦哥=Squawkabilly<img index="#0931" class="pokemon-image" src="https://i.postimg.cc/Fsv69cbW/Squawkabilly-Blue-Plumage.png"><img index="#0931" class="pokemon-image" src="https://i.postimg.cc/W1bfZvH0/Squawkabilly-Green-Plumage.png"><img index="#0931" class="pokemon-image" src="https://i.postimg.cc/bwCVHB7W/Squawkabilly-White-Plumage.png"><img index="#0931" class="pokemon-image" src="https://i.postimg.cc/1z8CWKPt/Squawkabilly-Yellow-Plumage.png">
-$海豚侠=Palafin<img index="#0964" class="pokemon-image" src="https://i.postimg.cc/pdvb47GT/Palafin-Hero-Form.png"><img index="#0964" class="pokemon-image" src="https://i.postimg.cc/YSxKH3Zx/Palafin-Zero-Form.png">
+$怒鹦哥=Squawkabilly<img index="#0931" class="pokemon-image" src="https://i.postimg.cc/W1bfZvH0/Squawkabilly-Green-Plumage.png"><img index="#0931" class="pokemon-image" src="https://i.postimg.cc/Fsv69cbW/Squawkabilly-Blue-Plumage.png"><img index="#0931" class="pokemon-image" src="https://i.postimg.cc/1z8CWKPt/Squawkabilly-Yellow-Plumage.png"><img index="#0931" class="pokemon-image" src="https://i.postimg.cc/bwCVHB7W/Squawkabilly-White-Plumage.png">
+$海豚侠=Palafin<img index="#0964" class="pokemon-image" src="https://i.postimg.cc/YSxKH3Zx/Palafin-Zero-Form.png"><img index="#0964" class="pokemon-image" src="https://i.postimg.cc/pdvb47GT/Palafin-Hero-Form.png">
 $米立龙=Tatsugiri<img index="#0978" class="pokemon-image" src="https://i.postimg.cc/qqT1vVKh/Tatsugiri-Curly-Form.png"><img index="#0978" class="pokemon-image" src="https://i.postimg.cc/C5smZPCv/Tatsugiri-Droopy-Form.png"><img index="#0978" class="pokemon-image" src="https://i.postimg.cc/PfW6FJGm/Tatsugiri-Stretchy-Form.png">
-$土龙节节=Dudunsparce<img index="#0982" class="pokemon-image" src="https://i.postimg.cc/yN4QbHbg/Dudunsparce-Three-Segment-Form.png"><img index="#0982" class="pokemon-image" src="https://i.postimg.cc/FKyWtBMP/Dudunsparce-Two-Segment-Form.png">
+$土龙节节=Dudunsparce<img index="#0982" class="pokemon-image" src="https://i.postimg.cc/FKyWtBMP/Dudunsparce-Two-Segment-Form.png"><img index="#0982" class="pokemon-image" src="https://i.postimg.cc/yN4QbHbg/Dudunsparce-Three-Segment-Form.png">
 $索财灵=Gimmighoul<img index="#0999" class="pokemon-image" src="https://i.postimg.cc/cLM5gJhx/Gimmighoul-Chest-Form.png"><img index="#0999" class="pokemon-image" src="https://i.postimg.cc/hGDZ9qZ9/Gimmighoul-Roaming-Form.png">
-$厄诡椪=Ogerpon<img index="#1017" class="pokemon-image" src="https://i.postimg.cc/mgHB07Td/Ogerpon-Cornerstone-Mask.png"><img index="#1017" class="pokemon-image" src="https://i.postimg.cc/R0x49qFv/Ogerpon-Hearthflame-Mask.png"><img index="#1017" class="pokemon-image" src="https://i.postimg.cc/XvK3v3Gd/Ogerpon-Teal-Mask.png"><img index="#1017" class="pokemon-image" src="https://i.postimg.cc/851GJ3M3/Ogerpon-Wellspring-Mask.png">
-$太乐巴戈斯=Terapagos<img index="#1024" class="pokemon-image" src="https://i.postimg.cc/858HZQtK/Terapagos-Normal-Form.png"><img index="#1024" class="pokemon-image" src="https://i.postimg.cc/bJQRMC5z/Terapagos-Terastal-Form.png">
+$厄诡椪=Ogerpon<img index="#1017" class="pokemon-image" src="https://i.postimg.cc/XvK3v3Gd/Ogerpon-Teal-Mask.png"><img index="#1017" class="pokemon-image" src="https://i.postimg.cc/851GJ3M3/Ogerpon-Wellspring-Mask.png"><img index="#1017" class="pokemon-image" src="https://i.postimg.cc/R0x49qFv/Ogerpon-Hearthflame-Mask.png"><img index="#1017" class="pokemon-image" src="https://i.postimg.cc/mgHB07Td/Ogerpon-Cornerstone-Mask.png">
+$太乐巴戈斯=Terapagos<img index="#1024" class="pokemon-image" src="https://i.postimg.cc/858HZQtK/Terapagos-Normal-Form.png"><img index="#1024" class="pokemon-image" src="https://i.postimg.cc/bJQRMC5z/Terapagos-Terastal-Form.png"><img index="#1024" class="pokemon-image" src="https://i.postimg.cc/HsB2DVKr/Terapagos-Stellar-Form.png">
 
-$原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
-$原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
-
-_____________POKÉMON 2_____________
+_____________POKÉMON 2_________
 $哭哭假面=Yamask<img index="#0562" class="pokemon-image" src="https://i.postimg.cc/tgdZGK9m/Yamask.png"><img index="#0562" class="pokemon-image" src="https://i.postimg.cc/TwRydtw2/Yamask-Galarian-Form.png">
 $皮克西=Clefable<img index="#0036" class="pokemon-image" src="https://i.postimg.cc/XBCZZdHJ/image36.png">
 $月伊布=Umbreon<img index="#0197" class="pokemon-image" src="https://i.postimg.cc/B85tGJ88/image197.png">
@@ -3635,13 +3632,15 @@ $迷龙=Dratini<img index="#0147" class="pokemon-image" src="https://i.postimg.c
 $独角兽=Weedle<img index="#0013" class="pokemon-image" src="https://i.postimg.cc/xk338Dk7/image13.png">
 $火爆猴=Primeape<img index="#0057" class="pokemon-image" src="https://i.postimg.cc/G9GhyL3H/image57.png">
 $大甲=Pinsir<img index="#0127" class="pokemon-image" src="https://i.postimg.cc/R3gGGxMt/image127.png">
-$漂浮泡泡=Castform<img index="#0351" class="pokemon-image" src="https://i.postimg.cc/ZKjJmfS5/Castform-Normal.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/6pmw2yTs/Castform-Rainy-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/25LY4rB1/Castform-Snowy-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/gJ9WsQvN/Castform-Sunny-Form.png">
+$漂浮泡泡=Castform<img index="#0351" class="pokemon-image" src="https://i.postimg.cc/ZKjJmfS5/Castform-Normal.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/gJ9WsQvN/Castform-Sunny-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/6pmw2yTs/Castform-Rainy-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/25LY4rB1/Castform-Snowy-Form.png">
 $死神棺=Cofagrigus<img index="#0563" class="pokemon-image" src="https://i.postimg.cc/N96NTJN9/image563.png">
 $死神板=Runerigus<img index="#0867" class="pokemon-image" src="https://i.postimg.cc/F1DjkXr5/image867.png">
 $袋龙=Kangaskhan<img index="#0115" class="pokemon-image" src="https://i.postimg.cc/CRjQG2BC/image115.png">
 $沙瓦朗=Hitmonlee<img index="#0106" class="pokemon-image" src="https://i.postimg.cc/fJ1GjXHs/image106.png">
 $艾比郎=Hitmonchan<img index="#0107" class="pokemon-image" src="https://i.postimg.cc/zyW9dBMg/image107.png">
 $穿山甲=Sandshrew<img index="#0027" class="pokemon-image" src="https://i.postimg.cc/mk9W0ssP/Sandshrew.png"><img index="#0027" class="pokemon-image" src="https://i.postimg.cc/3r0hygv3/Sandshrew-Alolan-Form.png">
+$原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
+$原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
 
 _____________SHINY_____________
 $闪光喷火龙=Shiny Charizard<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/zf0hCCGy/delpmav-730ef73a-1ee2-42f2-9875-3ef30a41a4c2.png">
