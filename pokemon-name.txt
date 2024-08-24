@@ -1,3 +1,7 @@
+$星野龙一=Hoshino Ryuichi
+$星野龙真=Hoshino Ryuuma
+$星野龙崎=Hoshino Ryuzaki
+
 $电神柱=Điện thần trụ
 $龙神柱=Long thần trụ
 $三神柱=Tam thần trụ
@@ -28,6 +32,7 @@ $大吾=Steven
 $柳伯=Pryce
 $菊子=Agatha
 
+$迅速击败=cấp tốc đánh bại
 $结结实实=rắn rắn chắc chắc
 $精神力量=tinh thần lực lượng
 $慢慢出现=chậm rãi xuất hiện
