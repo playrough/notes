@@ -1,3 +1,4 @@
+
 $星野龙一=Hoshino Ryuichi
 $星野龙真=Hoshino Ryuuma
 $星野龙崎=Hoshino Ryuzaki
@@ -44,6 +45,7 @@ $驯龙师=thuần long sư
 $训练家=huấn luyện gia
 $培育家=bồi dưỡng gia
 $特防=đặc phòng
+$特性=đặc tính
 
 $掌门=chưởng môn
 $冠军=quán quân
@@ -3622,6 +3624,7 @@ $皮克西=Clefable<img index="#0036" class="pokemon-image" src="https://i.posti
 $月伊布=Umbreon<img index="#0197" class="pokemon-image" src="https://i.postimg.cc/B85tGJ88/image197.png">
 $纽拉=Sneasel<img index="#0215" class="pokemon-image" src="https://i.postimg.cc/2jhJRTWL/Sneasel.png"><img index="#0215" class="pokemon-image" src="https://i.postimg.cc/pXB6yTq2/Sneasel-Hisuian-Form.png">
 $勇吉拉=Kadabra<img index="#0064" class="pokemon-image" src="https://i.postimg.cc/JHL8qX7t/image64.png">
+$班吉拉斯=Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/y3mLmgW1/image248.png">
 $班吉拉=Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/y3mLmgW1/image248.png">
 $火爆兽=Typhlosion<img index="#0157" class="pokemon-image" src="https://i.postimg.cc/7ZdMLr8H/Typhlosion.png"><img index="#0157" class="pokemon-image" src="https://i.postimg.cc/VNt9rZmj/Typhlosion-Hisuian-Form.png">
 $水军=Suicune<img index="#0245" class="pokemon-image" src="https://i.postimg.cc/ft02bgN0/image245.png">
