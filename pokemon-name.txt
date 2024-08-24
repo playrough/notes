@@ -1,4 +1,78 @@
+$德文=Devon
+$橘子群岛=Orange Archipelago
+$成都=Johto
+$坂木=Giovani
+$菊野=Bertha
+$源治=Drake
+$御龙=ngự long
+$杜鹃=Roxanne
+$菊菜=Chrysa
+$芥子兰=Carolina
+$兹伏奇大吾=Steven Stone
+$铃兰青年大会=Lily of the Valley Youth Conference
+$瓢太=Roark
+$联盟币=LP
+$赤日=Cyrus
+$银河队=Team Galactic
+$铃兰青年大赛=Lily of the Valley Youth Conference
+$铃兰岛=Lily of the Valley Island
+$铃兰大会=Lily of the Valley Conference
+$比内娜=Binena
+$山梨=Rowan
+$樱木=Cerise
+$流星之里=Meteor Village
 
+$结结实实=rắn rắn chắc chắc
+$电神柱=Điện thần trụ
+$龙神柱=Long thần trụ
+$三神柱=Tam thần trụ
+$钢的神柱=Thép thần trụ
+
+$托姆渃奇=Tom Riddle
+$川谷森=Kawatani Mori
+
+$冰神柱=Băng thần trụ
+
+$熔岩队=Team Magma
+$海洋队=Team Aqua
+$火箭队=Team Rocket
+
+$凯吉=Cage
+$言夏=Ian
+$羽月=Hazuki
+
+@Độ=Lance
+$科拿=Lorelei
+$大吾=Steven
+$柳伯=Pryce
+$菊子=Agatha
+
+$精神力量=tinh thần lực lượng
+$慢慢出现=chậm rãi xuất hiện
+$抓住机会=nắm lấy cơ hội
+$收获最大的=thu hoạch lớn nhất
+$大收获=đại thu hoạch
+
+$驯龙师=thuần long sư
+$训练家=huấn luyện gia
+$培育家=bồi dưỡng gia
+$特防=đặc phòng
+
+$掌门=chưởng môn
+$冠军=quán quân
+$准冠军=chuẩn quán quân
+$四天王=tứ thiên vương
+$天王=thiên vương
+$准天王=chuẩn thiên vương
+$馆主级=quán chủ cấp
+$精英级=tinh anh cấp
+$资深级=tư thâm cấp
+$卓越级=trác việt cấp
+$合格级=hợp cách cấp
+$初始级=sơ thủy cấp
+
+$夏彦=Ethan
+$精灵=Pokémon
 _______________________________
 
 _____________OTHER_____________
