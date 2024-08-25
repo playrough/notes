@@ -1,3 +1,10 @@
+$千里=Norman
+
+$特别篇=SPECIAL
+
+$伊贺流=Iga-ryū
+$阿拓=Ato
+
 $星野龙一=Hoshino Ryuichi
 $星野龙真=Hoshino Ryuuma
 $星野龙崎=Hoshino Ryuzaki
@@ -5,7 +12,7 @@ $星野龙崎=Hoshino Ryuzaki
 $电神柱=Điện Thần Trụ
 $龙神柱=Long Thần Trụ
 $三神柱=Tam Thần Trụ
-$钢的神柱=Thép Thần Trụ
+$钢神柱=Thép Thần Trụ
 $冰神柱=Băng Thần Trụ
 
 $银河队=Team Galactic
@@ -14,7 +21,16 @@ $海洋队=Team Aqua
 $火箭队=Team Rocket
 
 $德文=Devon
+$浅红道馆=Fuchsia Gym
 
+$水梧桐=Archie
+$火雁=Courtney
+$娜姿=Sabrina
+$马志士=Lt. Surge
+$阿桔=Koga
+$智爷=Ash
+$阿杏=Janine
+$赤焰松=Maxie
 $君莎=Jenny
 $坂木=Giovani
 $菊野=Bertha
@@ -33,6 +49,9 @@ $菊子=Agatha
 @Độ=Lance
 $兹伏奇大吾=Steven Stone
 
+$一阵挣扎=một hồi giãy dụa
+$挣扎着=giẫy giụa
+$抓住=bắt được
 $借助着=mượn nhờ
 $迅速击败=cấp tốc đánh bại
 $结结实实=rắn rắn chắc chắc
@@ -69,8 +88,10 @@ $川谷森=Kawatani Mori
 $比内娜=Binena
 $夏彦=Ethan
 $联盟币=LP
+$精灵=Pokémon
 _________________________________
 _____________OTHER_____________
+$白银学院=Silver Academy
 $流星之里=Meteor Village
 $橘子群岛=Orange Archipelago
 $铃兰岛=Lily of the Valley Island
@@ -85,6 +106,7 @@ $幻兽=Mythical Beast
 $神兽=Legendary Beast
 $准神=Pseudo-Legendary
 $创世神=Creator God
+$大地之神=God of the Earth
 
 $精灵联盟=Pokémon League
 $联盟=Pokémon League
@@ -92,6 +114,7 @@ $精灵中心=Pokémon Center
 $饲育屋=Day Care
 $培育屋=Day Care
 
+$弯曲汤匙=Twisted Spoon
 $精灵图鉴=Pokédex
 $能量方块=Pokéblock
 $超进化石=Mega Stone
@@ -3641,6 +3664,7 @@ $袋龙=Kangaskhan<img index="#0115" class="pokemon-image" src="https://i.postim
 $沙瓦朗=Hitmonlee<img index="#0106" class="pokemon-image" src="https://i.postimg.cc/fJ1GjXHs/image106.png">
 $艾比郎=Hitmonchan<img index="#0107" class="pokemon-image" src="https://i.postimg.cc/zyW9dBMg/image107.png">
 $穿山甲=Sandshrew<img index="#0027" class="pokemon-image" src="https://i.postimg.cc/mk9W0ssP/Sandshrew.png"><img index="#0027" class="pokemon-image" src="https://i.postimg.cc/3r0hygv3/Sandshrew-Alolan-Form.png">
+$懒人翁=Slakoth<img index="#0287" class="pokemon-image" src="https://i.postimg.cc/MMDDXkLH/image287.png">
 $原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
 $原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
 
