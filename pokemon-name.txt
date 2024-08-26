@@ -2215,7 +2215,6 @@ $究极球=Beast Ball<img class="pokemon-ball" src="https://www.serebii.net/item
 $奇异球=Strange Ball<img class="pokemon-ball" src="https://www.serebii.net/itemdex/sprites/sv/strangeball.png">
 
 _____________TYPES_____________
-
 $冰属性=thuộc tính băng<img class="pokemon-type" src="https://i.postimg.cc/m28srhSx/Ice.png">
 $恶属性=thuộc tính bóng tối<img class="pokemon-type" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
 $毒属性=thuộc tính độc<img class="pokemon-type" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
