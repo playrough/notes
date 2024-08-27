@@ -59,18 +59,18 @@ $培育家=bồi dưỡng gia
 $特防=đặc phòng
 $特性=đặc tính
 
-$掌门=chưởng môn
-$冠军=quán quân
-$准冠军=chuẩn quán quân
-$四天王=tứ thiên vương
-$天王=thiên vương
-$准天王=chuẩn thiên vương
-$馆主级=quán chủ cấp
-$精英级=tinh anh cấp
-$资深级=tư thâm cấp
-$卓越级=trác việt cấp
-$合格级=hợp cách cấp
-$初始级=sơ thủy cấp
+$掌门=chưởng môn (11)
+$冠军=quán quân (10)
+$准冠军=chuẩn quán quân (9.5)
+$四天王=tứ thiên vương (9)
+$天王=thiên vương (8)
+$准天王=chuẩn thiên vương (7)
+$馆主级=quán chủ cấp (6)
+$精英级=tinh anh cấp (5)
+$资深级=tư thâm cấp (4)
+$卓越级=trác việt cấp (3)
+$合格级=hợp cách cấp (2)
+$初始级=sơ thủy cấp (1)
 
 $星野龙一=Hoshino Ryuichi
 $星野龙真=Hoshino Ryuuma
@@ -2215,6 +2215,7 @@ $究极球=Beast Ball<img class="pokemon-ball" src="https://www.serebii.net/item
 $奇异球=Strange Ball<img class="pokemon-ball" src="https://www.serebii.net/itemdex/sprites/sv/strangeball.png">
 
 _____________TYPES_____________
+
 $冰属性=thuộc tính băng<img class="pokemon-type" src="https://i.postimg.cc/m28srhSx/Ice.png">
 $恶属性=thuộc tính bóng tối<img class="pokemon-type" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
 $毒属性=thuộc tính độc<img class="pokemon-type" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
