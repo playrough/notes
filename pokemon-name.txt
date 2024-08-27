@@ -4615,7 +4615,21 @@ $超极巨流水连击=<span class="type Water">G-Max Rapid Flow</span>
 _____________MOVES 2_____________
 $重磅冲击=<span class="type Steel">Heavy Slam</span>
 $DD 金钩臂=<span class="type Dark">Darkest Lariat</span>
+$DD 金勾臂=<span class="type Dark">Darkest Lariat</span>
 $DD金钩臂=<span class="type Dark">Darkest Lariat</span>
+$电磁漂浮=<span class="type Electric">Magnet Rise</span>
+$百万顿重拳=<span class="type Normal">Mega Punch</span>
+$龙星群=<span class="type Dragon">Draco Meteor</span>
+$岩石封闭=<span class="type Rock">Rock Tomb</span>
+$龙神俯冲=<span class="type Dragon">Dragon Rush</span>
+$消除浓雾=<span class="type Flying">Defog</span>
+$百万顿脚踢=<span class="type Normal">Mega Kick</span>
+$力量宝石=<span class="type Rock">Power Gem</span>
+$岩石暴击=<span class="type Rock">Rock Blast</span>
+$双刃头槌=<span class="type Rock">Head Smash</span>
+$雷电牙=<span class="type Electric">Thunder Fang</span>
+$终级冲击=<span class="type Normal">Giga Impact</span>
+$火焰漩涡=<span class="type Fire">Fire Spin</span>
  
 Other
 Ability
