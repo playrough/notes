@@ -1,3 +1,31 @@
+$电次=Volkner
+$华丽大赛=Pokémon Contests
+$小茂=Gary
+$青绿=Blue
+$宝可梦=Pokémon
+$奈奈美=Daisy
+$大木奈奈美=Daisy Oak
+$大木雪成=Samuel Oak
+$小智=Ash
+$悟松=Lucian
+$大叶=Flint
+$一树=Will
+$梨花=Karen
+$大木=Oak
+$朵拉塞娜=Drasna
+$阿戴克=Alder
+$总盟=General League
+$御龙一族=ngự long nhất tộc
+$猎人公会=Hunter Guild
+$冥王龙=Minh vương long
+$龙之晶=Dragon Crystal
+$小椿=Clair
+$抓捕=bắt
+$下野=Shimotsuke
+$井田=Ida
+$本武=Mototake
+$山川=Kai
+$攻击落下=công kích rơi xuống
 $铃兰青年大赛=Lily of the Valley Youth Conference
 
 $电神柱=Điện Thần Trụ
@@ -82,7 +110,7 @@ $楠木=Kusunoki
 $凯吉=Cage
 $言夏=Ian
 $羽月=Hazuki
-$托姆渃奇=Tom Riddle
+$托姆渃奇=Tom Evans
 $川谷森=Kawatani Mori
 $比内娜=Binena
 $夏彦=Ethan
@@ -3670,6 +3698,7 @@ $穿山甲=Sandshrew<img index="#0027" class="pokemon-image" src="https://i.post
 $懒人翁=Slakoth<img index="#0287" class="pokemon-image" src="https://i.postimg.cc/MMDDXkLH/image287.png">
 $赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" src="https://i.postimg.cc/gx4Lwvqz/image727.png">
 $火炎狮=Pyroar<img index="#0668" class="pokemon-image" src="https://i.postimg.cc/rsQvzrcD/Pyroar-Male.png"><img index="#0668" class="pokemon-image" src="https://i.postimg.cc/KjZ6ZNXX/Pyroar-Female.png">
+$幽灵马=Spectrier<img index="#0897" class="pokemon-image" src="https://i.postimg.cc/q6hM7KB7/image897.png">
 $原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
 $原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
 
@@ -4613,7 +4642,6 @@ $超极巨夺命一击=<span class="type Dark">G-Max One Blow</span>
 $超极巨流水连击=<span class="type Water">G-Max Rapid Flow</span>
 
 _____________MOVES 2_____________
-$重磅冲击=<span class="type Steel">Heavy Slam</span>
 $DD 金钩臂=<span class="type Dark">Darkest Lariat</span>
 $DD 金勾臂=<span class="type Dark">Darkest Lariat</span>
 $DD金钩臂=<span class="type Dark">Darkest Lariat</span>
@@ -4630,7 +4658,8 @@ $双刃头槌=<span class="type Rock">Head Smash</span>
 $雷电牙=<span class="type Electric">Thunder Fang</span>
 $终级冲击=<span class="type Normal">Giga Impact</span>
 $火焰漩涡=<span class="type Fire">Fire Spin</span>
- 
+$恶魔之吻=<span class="type Normal">Lovely Kiss</span>
+
 Other
 Ability
 Item
