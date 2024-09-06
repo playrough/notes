@@ -539,8 +539,6 @@
 
 	function createPokedex(data, pokedexSpecsHtml, selector, notification) {
 		const targets = document.querySelectorAll(selector);
-		const svgList = document.querySelectorAll('.pokemon-icon svg');
-
 		const defaultIconStyle = {
 			transform: 'rotate(0deg)',
 			fill: ICON_COLOR,
@@ -552,6 +550,7 @@
 		};
 
 		function updateIconStyles({ transform, fill }) {
+			const svgList = document.querySelectorAll('.pokemon-icon svg');
 			svgList.forEach(svg => {
 				svg.style.transform = transform;
 				svg.querySelectorAll('path').forEach(path => {
@@ -580,7 +579,7 @@
 				event.stopPropagation();
 
 				updateIconStyles(defaultIconStyle);
-
+				
 				if (icon) {
 					const svgIcon = icon.querySelector('svg');
 					svgIcon.style.transform = activeIconStyle.transform;
