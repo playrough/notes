@@ -32,7 +32,7 @@
 				position: 'fixed',
 				top: '0',
 				right: '0',
-                margin: '10px',
+				margin: '10px',
 				padding: '10px',
 				backgroundColor: '#333',
 				color: '#fff',
@@ -53,12 +53,17 @@
 		hideNotification() {
 			this.notificationBox.style.display = 'none';
 		}
+
+		addEvent(event, handler) {
+			this.notificationBox.addEventListener(event, handler);
+		}
 	}
 
 	const statsUrl = 'https://raw.githubusercontent.com/playrough/stv-pokemon-name/main/pokemon-stats.json';
 	const movesUrl = 'https://raw.githubusercontent.com/playrough/stv-pokemon-name/main/pokemon-moves.json';
 	const abilitiesUrl = 'https://raw.githubusercontent.com/playrough/stv-pokemon-name/main/pokemon-abilities.json';
 
+	const ROTATE_DEG = '90deg';
 	const ICON_COLOR = '#a8a8a8';
 	const svgCode = /* HTML */ `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
 		<g id="icomoon-ignore" />
@@ -152,24 +157,13 @@
             height: 35px;
         }
 
-        .icon-pokemon {
-        }
-
-        .icon-pokemon svg {
+        .pokemon-icon svg {
             width: 20px;
             height: 20px;
             margin-top: -2px;
             margin-left: 2px;
             transition: transform 0.3s ease;
         }
-
-        /*.icon-pokemon svg:hover {
-            transform: rotate(90deg);
-        }
-
-        .icon-pokemon svg:active {
-            transform: rotate(90deg);
-        }*/
 
         i:has(img),
         i:has(span) {
@@ -485,7 +479,7 @@
 		document.querySelector(`button[onclick='${selector}']`)?.click();
 	}
 
-	function autoReload() {
+	function autoReload(pokemonData, notification) {
 		const actions = [
 			"addSuperName('hv','z')",
 			"addSuperName('hv','f')",
@@ -507,6 +501,7 @@
 				button.addEventListener('click', () => {
 					contentReplacer();
 					changeSizeImage();
+					startPokedex(pokemonData, notification);
 				});
 			}
 		});
@@ -514,7 +509,7 @@
 
 	function createIcon() {
 		const spanElement = document.createElement('span');
-		spanElement.className = 'icon-pokemon';
+		spanElement.className = 'pokemon-icon';
 		spanElement.innerHTML = svgCode;
 		return spanElement;
 	}
@@ -544,26 +539,67 @@
 
 	function createPokedex(data, pokedexSpecsHtml, selector, notification) {
 		const targets = document.querySelectorAll(selector);
+		const svgList = document.querySelectorAll('.pokemon-icon svg');
+
+		const defaultIconStyle = {
+			transform: 'rotate(0deg)',
+			fill: ICON_COLOR,
+		};
+
+		const activeIconStyle = {
+			transform: `rotate(${ROTATE_DEG})`,
+			fill: '#FF4B33',
+		};
+
+		function updateIconStyles({ transform, fill }) {
+			svgList.forEach(svg => {
+				svg.style.transform = transform;
+				svg.querySelectorAll('path').forEach(path => {
+					path.setAttribute('fill', fill);
+				});
+			});
+		}
 
 		targets.forEach(target => {
-			const parent = target.parentElement;
+			const parentTarget = target.parentElement;
 			let icon;
 
 			if (selector !== '.pokemon-image') {
 				icon = createIcon();
-				parent.appendChild(icon);
+				parentTarget.appendChild(icon);
 			}
 
-			const key = parent.innerText.trim();
+			const key = parentTarget.innerText.trim();
 			const found = data[key];
 
-			if (found) {
-                (icon || target).addEventListener('click', event => {
-					event.stopPropagation();
-                    if(icon) icon.style.transform = 'rotate(90deg)';
-					notification.showNotification(pokedexSpecsHtml(found));
-				});
-			}
+			if (!found) return;
+
+			const element = icon || target;
+
+			element.addEventListener('click', event => {
+				event.stopPropagation();
+
+				updateIconStyles(defaultIconStyle);
+
+				if (icon) {
+					const svgIcon = icon.querySelector('svg');
+					svgIcon.style.transform = activeIconStyle.transform;
+					svgIcon.querySelectorAll('path').forEach(path => {
+						path.setAttribute('fill', activeIconStyle.fill);
+					});
+				}
+				notification.showNotification(pokedexSpecsHtml(found));
+			});
+
+			notification.addEvent('click', () => {
+				if (icon) {
+					const svgIcon = icon.querySelector('svg');
+					svgIcon.style.transform = defaultIconStyle.transform;
+					svgIcon.querySelectorAll('path').forEach(path => {
+						path.setAttribute('fill', defaultIconStyle.fill);
+					});
+				}
+			});
 		});
 	}
 
@@ -596,26 +632,26 @@
 			<p class="pokedex-specs">Description: <span>${target.description}</span></p>`;
 	}
 
-	async function startPokedex(notification) {
-		const pokemonData = await setupData();
-
+	function startPokedex(pokemonData, notification) {
 		pokemonData.forEach(({ data, print, selector }) => {
 			createPokedex(data, print, selector, notification);
 		});
 	}
 
-	function init() {
+	async function init() {
 		const notification = new NotificationBox();
+		const pokemonData = await setupData();
 
 		loadConfig();
+		setupConfigControls();
+
 		loadImageSize();
 		contentReplacer();
 		changeSizeImage();
-		setupConfigControls();
-		autoReload();
 
-		startPokedex(notification);
+		startPokedex(pokemonData, notification);
+		autoReload(pokemonData, notification);
 	}
 
-	setTimeout(init, 2000);
+	setTimeout(init, 1000);
 })();
