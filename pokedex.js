@@ -566,13 +566,13 @@
 		};
 
 		function updateIconStyles({ transform, fill }) {
-			const svgList = document.querySelectorAll('.pokemon-icon svg');
-			svgList.forEach(svg => {
+			const svg = document.querySelector('.pokemon-icon svg[style="transform: rotate(90deg);"]');
+			if (svg) {
 				svg.style.transform = transform;
 				svg.querySelectorAll('path').forEach(path => {
 					path.setAttribute('fill', fill);
 				});
-			});
+			}
 		}
 
 		targets.forEach(target => {
@@ -595,6 +595,7 @@
 				event.stopPropagation();
 
 				updateIconStyles(defaultIconStyle);
+				document.querySelector('.pokemon-image.clicked')?.classList.remove('clicked');
 
 				if (icon) {
 					const svgIcon = icon.querySelector('svg');
@@ -603,12 +604,7 @@
 						path.setAttribute('fill', activeIconStyle.fill);
 					});
 				} else {
-					targets.forEach(target => {
-						target.classList.remove('clicked');
-					});
-
 					void target.offsetWidth;
-
 					target.classList.add('clicked');
 				}
 				notification.showNotification(pokedexSpecsHtml(found));
