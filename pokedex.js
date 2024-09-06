@@ -19,46 +19,6 @@
 (function () {
 	'use strict';
 
-	class NotificationBox {
-		constructor() {
-			this.notificationBox = this.createNotificationBox();
-		}
-
-		createNotificationBox() {
-			const notificationBox = document.createElement('div');
-			notificationBox.id = 'notification';
-			Object.assign(notificationBox.style, {
-				display: 'none',
-				position: 'fixed',
-				top: '0',
-				right: '0',
-				margin: '10px',
-				padding: '10px',
-				backgroundColor: '#333',
-				color: '#fff',
-				borderRadius: '5px',
-				zIndex: '1000',
-				cursor: 'pointer',
-			});
-			document.body.appendChild(notificationBox);
-			notificationBox.addEventListener('click', () => this.hideNotification());
-			return notificationBox;
-		}
-
-		showNotification(message) {
-			this.notificationBox.innerHTML = message;
-			this.notificationBox.style.display = 'block';
-		}
-
-		hideNotification() {
-			this.notificationBox.style.display = 'none';
-		}
-
-		addEvent(event, handler) {
-			this.notificationBox.addEventListener(event, handler);
-		}
-	}
-
 	const statsUrl = 'https://raw.githubusercontent.com/playrough/stv-pokemon-name/main/pokemon-stats.json';
 	const movesUrl = 'https://raw.githubusercontent.com/playrough/stv-pokemon-name/main/pokemon-moves.json';
 	const abilitiesUrl = 'https://raw.githubusercontent.com/playrough/stv-pokemon-name/main/pokemon-abilities.json';
@@ -137,6 +97,22 @@
             color: #d258ad;
         }
 
+		.pokemon-image.clicked {
+			animation: float 3s ease-in-out infinite;
+		}
+
+		@keyframes float {
+			0% {
+				transform: translateY(0);
+			}
+			50% {
+				transform: translateY(-10px);
+			}
+			100% {
+				transform: translateY(0);
+			}
+		}
+
         .pokemon-ability {
             color: #555555;
         }
@@ -184,6 +160,46 @@
             background-color: #e0e0e0;
         }
     `);
+
+	class NotificationBox {
+		constructor() {
+			this.notificationBox = this.createNotificationBox();
+		}
+
+		createNotificationBox() {
+			const notificationBox = document.createElement('div');
+			notificationBox.id = 'notification';
+			Object.assign(notificationBox.style, {
+				display: 'none',
+				position: 'fixed',
+				top: '0',
+				right: '0',
+				margin: '10px',
+				padding: '10px',
+				backgroundColor: '#333',
+				color: '#fff',
+				borderRadius: '5px',
+				zIndex: '1000',
+				cursor: 'pointer',
+			});
+			document.body.appendChild(notificationBox);
+			notificationBox.addEventListener('click', () => this.hideNotification());
+			return notificationBox;
+		}
+
+		showNotification(message) {
+			this.notificationBox.innerHTML = message;
+			this.notificationBox.style.display = 'block';
+		}
+
+		hideNotification() {
+			this.notificationBox.style.display = 'none';
+		}
+
+		addEvent(event, handler) {
+			this.notificationBox.addEventListener(event, handler);
+		}
+	}
 
 	const BUTTON_STYLES = {
 		fontSize: '14px',
@@ -579,13 +595,21 @@
 				event.stopPropagation();
 
 				updateIconStyles(defaultIconStyle);
-				
+
 				if (icon) {
 					const svgIcon = icon.querySelector('svg');
 					svgIcon.style.transform = activeIconStyle.transform;
 					svgIcon.querySelectorAll('path').forEach(path => {
 						path.setAttribute('fill', activeIconStyle.fill);
 					});
+				} else {
+					targets.forEach(target => {
+						target.classList.remove('clicked');
+					});
+
+					void target.offsetWidth;
+
+					target.classList.add('clicked');
 				}
 				notification.showNotification(pokedexSpecsHtml(found));
 			});
@@ -597,6 +621,8 @@
 					svgIcon.querySelectorAll('path').forEach(path => {
 						path.setAttribute('fill', defaultIconStyle.fill);
 					});
+				} else {
+					target.classList.remove('clicked');
 				}
 			});
 		});
