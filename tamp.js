@@ -36,7 +36,7 @@
 		@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 		.notification-pokedex {
-				width: 350px;
+			width: 350px;
 		}
 
 		/* Phone */
@@ -44,6 +44,11 @@
 			.notification-pokedex {
 				width: calc(100% - 20px);
 			}
+		}
+
+		.notification-pokedex table {
+			width: 100%;
+			table-layout: auto;
 		}
 
 		.notification-pokedex h2 {
@@ -65,6 +70,9 @@
 			font-size: .875rem;
 			font-weight: normal;
 			text-align: right;
+
+			width: 1px;
+        	white-space: nowrap;
 		}
 
 		.notification-pokedex td {
@@ -217,6 +225,7 @@
 				borderRadius: '5px',
 				zIndex: '1000',
 				cursor: 'pointer',
+				boxShadow: 'rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px'
 			});
 			notificationBox.classList.add('notification-pokedex');
 			notificationBox.addEventListener('click', () => this.hideNotification());
